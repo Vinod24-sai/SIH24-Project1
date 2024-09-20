@@ -1,7 +1,6 @@
 # SIH24-Project1
 SIH 2024 project by team HERITAGE HACKERS57 on theme "Heritage &amp; Culture" with PS id 1598 
 
-
 # Website Link
 https://vinod24-sai.github.io/SIH24-Project1/index.html
 
@@ -24,18 +23,23 @@ The Incredible India platform provides users with a digital gateway to explore I
 ## Unique Features
 
 <b>Personalized Experiences:</b> The platform offers customized cultural experiences based on users' preferences. Whether they are interested in dance, architecture, or literature, the platform adapts to showcase the most relevant content to each user.
+
 <img src="images/Screenshot 2024-09-20 123121.png">
 
 <b> AR/VR-Enhanced Heritage Tours:</b> One of the standout features of our platform is its immersive AR/VR experiences, which allow users to virtually tour some of India’s most significant cultural heritage sites. This brings users closer to India’s historical wonders in a highly interactive and engaging manner.
+
 <img src="images/Screenshot 2024-09-20 123232.png">
 
 <b>Real-Time Updates and Event Notifications:</b> Stay updated with cultural events, festivals, and exhibitions happening across India through real-time alerts and notifications. This feature keeps users engaged with ongoing cultural happenings around the country.
+
 <img src="images/Screenshot 2024-09-20 123257.png">
 
 <b>Interactive Map of Heritage Sites:</b> Our platform uses Google My Maps to offer an interactive, location-based experience. Users can explore the top 10 heritage sites across India, learning about their history and significance with a click of a button. This map provides a visual journey across India’s cultural landmarks, making history more accessible and engaging.
+
 <img src="images/Screenshot 2024-09-20 123137.png">
 
 <b>Marketplace for Art and Handicrafts:</b> We provide an integrated marketplace that promotes local artisans and handicrafts. This feature supports the promotion of traditional Indian arts and crafts, giving users the opportunity to purchase unique cultural products while supporting local artisans.
+
 <img src="images/Screenshot 2024-09-20 123159.png">
 
 ### Tools and Technologies
@@ -56,8 +60,9 @@ Our project, Incredible India, blends tradition with technology to create an inn
 
 We invite you to explore the incredible heritage and traditions of India through our platform, and discover the beauty and diversity of a nation that has captivated the world for centuries.
 
-Contributing
+### Contributing
 We welcome contributions to enhance and expand the project.
-License
+
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
